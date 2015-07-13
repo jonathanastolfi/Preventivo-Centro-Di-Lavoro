@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <PublishUrlHistory>C:\Users\Jonathan\Documents\Visual Studio 2012\Projects\Preventivo Centro Lavoro\Preventivo Centro Lavoro\publish\|/publish/|http://www.glidermind.com/sftw/pcl/|publish\</PublishUrlHistory>
-    <InstallUrlHistory>http://www.glidermind.com/sftw/pcl/</InstallUrlHistory>
+    <PublishUrlHistory>ftp://phd.altervista.org/pcl/|C:\Users\Jonathan\Documents\Visual Studio 2012\Projects\Preventivo Centro Lavoro\Preventivo Centro Lavoro\publish\|/publish/|http://www.glidermind.com/sftw/pcl/|publish\</PublishUrlHistory>
+    <InstallUrlHistory>http://phd.altervista.org/pcl/|http://www.glidermind.com/sftw/pcl/</InstallUrlHistory>
     <SupportUrlHistory />
-    <UpdateUrlHistory />
+    <UpdateUrlHistory>http://phd.altervista.org/pcl/</UpdateUrlHistory>
     <BootstrapperUrlHistory />
     <ErrorReportUrlHistory />
     <FallbackCulture>it-IT</FallbackCulture>

@@ -203,7 +203,7 @@ Partial Class Form1
         Me.NuovoToolStripMenuItem.Image = Global.Preventivo_Centro_Lavoro.My.Resources.Resources.nuovo
         Me.NuovoToolStripMenuItem.Name = "NuovoToolStripMenuItem"
         Me.NuovoToolStripMenuItem.ShortcutKeys = CType((System.Windows.Forms.Keys.Control Or System.Windows.Forms.Keys.N), System.Windows.Forms.Keys)
-        Me.NuovoToolStripMenuItem.Size = New System.Drawing.Size(162, 22)
+        Me.NuovoToolStripMenuItem.Size = New System.Drawing.Size(153, 22)
         Me.NuovoToolStripMenuItem.Text = "Nuovo"
         '
         'ApriToolStripMenuItem
@@ -211,7 +211,7 @@ Partial Class Form1
         Me.ApriToolStripMenuItem.Image = Global.Preventivo_Centro_Lavoro.My.Resources.Resources.apri
         Me.ApriToolStripMenuItem.Name = "ApriToolStripMenuItem"
         Me.ApriToolStripMenuItem.ShortcutKeys = CType((System.Windows.Forms.Keys.Control Or System.Windows.Forms.Keys.O), System.Windows.Forms.Keys)
-        Me.ApriToolStripMenuItem.Size = New System.Drawing.Size(162, 22)
+        Me.ApriToolStripMenuItem.Size = New System.Drawing.Size(153, 22)
         Me.ApriToolStripMenuItem.Text = "Apri"
         '
         'SalvaToolStripMenuItem
@@ -219,7 +219,7 @@ Partial Class Form1
         Me.SalvaToolStripMenuItem.Image = Global.Preventivo_Centro_Lavoro.My.Resources.Resources.salva
         Me.SalvaToolStripMenuItem.Name = "SalvaToolStripMenuItem"
         Me.SalvaToolStripMenuItem.ShortcutKeys = CType((System.Windows.Forms.Keys.Control Or System.Windows.Forms.Keys.S), System.Windows.Forms.Keys)
-        Me.SalvaToolStripMenuItem.Size = New System.Drawing.Size(162, 22)
+        Me.SalvaToolStripMenuItem.Size = New System.Drawing.Size(153, 22)
         Me.SalvaToolStripMenuItem.Text = "Salva"
         '
         'ChiudiToolStripMenuItem
@@ -227,7 +227,7 @@ Partial Class Form1
         Me.ChiudiToolStripMenuItem.Image = Global.Preventivo_Centro_Lavoro.My.Resources.Resources.chiudi
         Me.ChiudiToolStripMenuItem.Name = "ChiudiToolStripMenuItem"
         Me.ChiudiToolStripMenuItem.ShortcutKeys = CType((System.Windows.Forms.Keys.Control Or System.Windows.Forms.Keys.Q), System.Windows.Forms.Keys)
-        Me.ChiudiToolStripMenuItem.Size = New System.Drawing.Size(162, 22)
+        Me.ChiudiToolStripMenuItem.Size = New System.Drawing.Size(153, 22)
         Me.ChiudiToolStripMenuItem.Text = "Chiudi"
         '
         'ToolStripMenuItem1
@@ -531,7 +531,7 @@ Partial Class Form1
         Me.btn_conferma_surplus.Name = "btn_conferma_surplus"
         Me.btn_conferma_surplus.Size = New System.Drawing.Size(75, 23)
         Me.btn_conferma_surplus.TabIndex = 22
-        Me.btn_conferma_surplus.Text = "conferma"
+        Me.btn_conferma_surplus.Text = "aggiungi"
         Me.btn_conferma_surplus.UseVisualStyleBackColor = True
         '
         'Form1

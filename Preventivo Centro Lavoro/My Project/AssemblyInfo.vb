@@ -1,4 +1,6 @@
-﻿Imports System
+﻿Imports System.Resources
+
+Imports System
 Imports System.Reflection
 Imports System.Runtime.InteropServices
 
@@ -9,13 +11,13 @@ Imports System.Runtime.InteropServices
 ' Controllare i valori degli attributi dell'assembly
 
 <Assembly: AssemblyTitle("Preventivo Centro Lavoro")> 
-<Assembly: AssemblyDescription("")> 
+<Assembly: AssemblyDescription("Software per il calcolo del tempo macchina nelle lavorazioni al centro di lavoro a controllo numerico")> 
 <Assembly: AssemblyCompany("")> 
 <Assembly: AssemblyProduct("Preventivo Centro Lavoro")> 
-<Assembly: AssemblyCopyright("Copyright ©  2013")> 
+<Assembly: AssemblyCopyright("Copyright ©  2015")> 
 <Assembly: AssemblyTrademark("")> 
 
-<Assembly: ComVisible(False)>
+<Assembly: ComVisible(True)> 
 
 'Se il progetto viene esposto a COM, il GUID seguente verrà utilizzato come ID della libreria dei tipi
 <Assembly: Guid("82f411f9-143c-43aa-a838-9ef8a857f701")> 
@@ -33,3 +35,5 @@ Imports System.Runtime.InteropServices
 
 <Assembly: AssemblyVersion("1.0.0.0")> 
 <Assembly: AssemblyFileVersion("1.0.0.0")> 
+
+<Assembly: NeutralResourcesLanguageAttribute("it-IT")> 

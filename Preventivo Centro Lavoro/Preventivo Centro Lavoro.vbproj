@@ -14,7 +14,7 @@
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile />
     <IsWebBootstrapper>true</IsWebBootstrapper>
-    <PublishUrl>C:\Users\Jonathan\Documents\Visual Studio 2012\Projects\Preventivo Centro Lavoro\Preventivo Centro Lavoro\publish\</PublishUrl>
+    <PublishUrl>ftp://phd.altervista.org/pcl/</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Web</InstallFrom>
     <UpdateEnabled>true</UpdateEnabled>
@@ -24,12 +24,15 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>http://www.glidermind.com/sftw/pcl/</InstallUrl>
+    <InstallUrl>http://phd.altervista.org/pcl/</InstallUrl>
+    <UpdateUrl>http://phd.altervista.org/pcl/</UpdateUrl>
+    <ProductName>Preventivo Centro di Lavoro</ProductName>
     <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>21</ApplicationRevision>
+    <ApplicationRevision>26</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
-    <UseApplicationTrust>false</UseApplicationTrust>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
     <PublishWizardCompleted>true</PublishWizardCompleted>
     <BootstrapperEnabled>true</BootstrapperEnabled>
   </PropertyGroup>
@@ -71,10 +74,10 @@
     <ApplicationIcon>sprocket_dark.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>13B11C21971A05E4E7BE2420272ACC9F08BCA479</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>A5645DAAA2F52E7461704B8423468B9A3FBE1586</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>Preventivo Centro Lavoro_ChiaveTemporanea.pfx</ManifestKeyFile>
+    <ManifestKeyFile>Preventivo Centro Lavoro_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
@@ -84,6 +87,12 @@
   </PropertyGroup>
   <PropertyGroup>
     <SignAssembly>false</SignAssembly>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'test|AnyCPU'">
+    <OutputPath>bin\test\</OutputPath>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -110,6 +119,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
     <Compile Include="Form1.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -117,6 +127,7 @@
       <DependentUpon>Form1.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="Settings.vb" />
     <Compile Include="tabella_1_foglio_1.Designer.vb">
       <DependentUpon>tabella_1_foglio_1.vb</DependentUpon>
     </Compile>
@@ -199,6 +210,7 @@
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
+    <None Include="My Project\app.manifest" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -211,7 +223,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Preventivo Centro Lavoro_ChiaveTemporanea.pfx" />
+    <None Include="Preventivo Centro Lavoro_TemporaryKey.pfx" />
     <None Include="Resources\apri.png" />
   </ItemGroup>
   <ItemGroup>

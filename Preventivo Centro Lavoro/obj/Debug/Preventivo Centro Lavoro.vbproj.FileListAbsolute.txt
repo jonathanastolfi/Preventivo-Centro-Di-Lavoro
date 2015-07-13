@@ -18,3 +18,23 @@ C:\Users\Jonathan\Documents\Visual Studio 2012\Projects\Preventivo Centro Lavoro
 C:\Users\Jonathan\Documents\Visual Studio 2012\Projects\Preventivo Centro Lavoro\Preventivo Centro Lavoro\bin\Debug\Preventivo Centro Lavoro.application
 C:\Users\Jonathan\Documents\Visual Studio 2012\Projects\Preventivo Centro Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo Centro Lavoro.exe.manifest
 C:\Users\Jonathan\Documents\Visual Studio 2012\Projects\Preventivo Centro Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo Centro Lavoro.application
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\bin\Debug\Preventivo Centro Lavoro.exe.config
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo Centro Lavoro.exe
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo Centro Lavoro.xml
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo Centro Lavoro.pdb
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo_Centro_Lavoro.Form1.resources
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo_Centro_Lavoro.Resources.resources
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo_Centro_Lavoro.tabella_1_foglio_1.resources
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo_Centro_Lavoro.tabella_1_foglio_2.resources
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo_Centro_Lavoro.tabella_2_foglio_1.resources
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo_Centro_Lavoro.tabella_2_foglio_2.resources
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo_Centro_Lavoro.tabella_3_foglio_1.resources
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo_Centro_Lavoro.tabella_3_foglio_2.resources
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo Centro Lavoro.vbproj.GenerateResource.Cache
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\bin\Debug\Preventivo Centro Lavoro.exe.manifest
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\bin\Debug\Preventivo Centro Lavoro.application
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\bin\Debug\Preventivo Centro Lavoro.exe
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\bin\Debug\Preventivo Centro Lavoro.pdb
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\bin\Debug\Preventivo Centro Lavoro.xml
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo Centro Lavoro.exe.manifest
+C:\Users\Jonathan\Documents\GitHub\Preventivo-Centro-Di-Lavoro\Preventivo Centro Lavoro\obj\Debug\Preventivo Centro Lavoro.application
